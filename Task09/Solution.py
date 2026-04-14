@@ -4,7 +4,7 @@ arr = list(map(int, input().split()))
 # Remove duplicates using set
 unique_scores = list(set(arr))
 
-# Sort in descending order
+
 unique_scores.sort(reverse=True)
 
 

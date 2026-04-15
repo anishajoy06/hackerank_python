@@ -1,7 +1,7 @@
 n = int(input())
 arr = list(map(int, input().split()))
 
-# Remove duplicates using set
+
 unique_scores = list(set(arr))
 
 

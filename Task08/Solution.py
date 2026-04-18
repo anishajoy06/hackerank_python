@@ -1,4 +1,4 @@
-//Task08
+
 def minion_game(string):
     vowels = "AEIOU"
     kevin_score = 0
